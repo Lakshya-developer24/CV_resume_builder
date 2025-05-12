@@ -80,6 +80,7 @@ PreparedStatement pst=null;
      * Creates new form Staff_details
      */
     public CV() {
+        
         initComponents();
         conn=db.java_db();
         Toolkit toolkit = getToolkit();
