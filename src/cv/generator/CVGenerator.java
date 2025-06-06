@@ -7,7 +7,7 @@ package cv.generator;
 
 /**
  *
- * @author Hyrex
+ * @Author Hyrex
  */
 public class CVGenerator {
 
