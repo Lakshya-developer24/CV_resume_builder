@@ -1,7 +1,7 @@
 /*
  * to change this license header, choose License Headers in Project Properties.
  * to change this template file, choose Tools | Templates
- * And open the template in the editor.
+ * and open the template in the editor.
  *this will give a well placed and organized CV
  */
 
